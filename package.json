@@ -1,0 +1,22 @@
+{
+  "name": "gas-fee-estimator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chart.js": "^4.4.6",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "chartjs-adapter-moment": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "express": "^4.21.1",
+    "node-fetch": "^3.3.2"
+  }
+}
